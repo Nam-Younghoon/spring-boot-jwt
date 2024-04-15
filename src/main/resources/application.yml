@@ -33,3 +33,5 @@ logging:
       hibernate:
         SQL: debug
         type.descriptor.sql: trace
+jwt:
+  secret: a390cd59c3973b95c6cef6d0d0bf2e5b0c345aac3b023588e391058116da55a2812d7212e05fae349e78a41f278b31d54db4924d8dfbd693d52dfe0b7c6c641e
